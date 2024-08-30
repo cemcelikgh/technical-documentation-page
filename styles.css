@@ -1,5 +1,5 @@
-html,
 body {
+  min-width: 500px;
   background-color: #4040A1;
   color: #FFFFFF;
   font-family: 'Open Sans', Arial, sans-serif;
@@ -11,7 +11,7 @@ body {
   position: fixed;
   top: 0px;
   left: 0px;
-  height: 100vh;
+  height: 100%;
   overflow-y: auto;
   overflow-x: hidden;
   background-color: #36486B;
